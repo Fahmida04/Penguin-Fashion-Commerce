@@ -1,0 +1,32 @@
+body{
+    margin: 0%;
+}
+.button{
+    font-weight: 1000px;
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.half-width img{
+    width: 85%;
+}
+h1{
+    size: 80px;
+}
+.rounded{
+    width: 100px;
+}
+.box{
+    background-color: #e3f2fd;
+    background-position: center;
+    text-align: center;
+    margin: 5%;
+    padding: 2%;
+    border-radius: 10px;
+}
+.name-highlight{
+    color: rgb(110, 190, 150);
+}
